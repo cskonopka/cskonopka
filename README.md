@@ -29,10 +29,11 @@ Christopher Konopka is a multidisciplinary artist that focuses on the cross sect
 * _[xeno-canto](https://github.com/cskonopka/xeno-canto)_: Bird-based audio sampler using bird sounds from around the globe using Node-for-Max.
 * _[open-source-souls](https://github.com/cskonopka/open-source-souls)_: An instrument that allows humans to listen to the subtleties of souls that are cataloged on the internet via open-source APIs.
 * _[dexra](https://github.com/cskonopka/dexra)_: Web3 CLI tool for tracking the exchange rate of 2 cryptocurrencies on Polygon
+* _[ArtOfWarSMS](https://github.com/cskonopka/ArtOfWarSMS)_: Send a sms & receive an Art of War quote using Twilio.
+* _[TwilioIoT](https://github.com/cskonopka/TwilioIoT)_: Twilio Programmable Wireless repository of blog posts, quickstarts and code snippets.\
 * _[LV-426](https://github.com/cskonopka/LV-426)_: A sonified interpretation of a derelict ship from the film "Alien".
 * _[maxJS](https://github.com/cskonopka/maxJS)_: Javascript examples for MaxMSP.
 * _[wiiAirDrum](https://github.com/cskonopka/wiiAirDrum)_: wii-based Drum Sampler created in MaxMSP for a Music Therapy Development Group (Berklee College of Music).
-* _[ArtOfWarSMS](https://github.com/cskonopka/ArtOfWarSMS)_: Send a sms & receive an Art of War quote using Twilio.
 * _[rolandp10fp](https://github.com/cskonopka/rolandp10fp)_: About File preperation script for the Roland's P-10 Image Converter Lite.
 * _[transcriptComber](https://github.com/cskonopka/transcriptComber)_: Transcript search engine with text highlighting and audio playhead positioning.
 * _[twilioElektron](https://github.com/cskonopka/twilioElektron)_: Example of how to use Twilio SMS to control an Elektron Octatrack with MIDI using Node.js and easymidi.
@@ -41,6 +42,5 @@ Christopher Konopka is a multidisciplinary artist that focuses on the cross sect
 * _[GBE](https://github.com/cskonopka/GBE)_: generative breakpoint envelope for Ableton & MaxMSP.
 * _[ofx-supplemental](https://github.com/cskonopka/ofx-supplemental)_: Collection of openFrameworks video synthesis examples.
 * _[normalizeAudio](https://github.com/cskonopka/normalizeAudio)_:A batch audio normalization tool built with Go and FFmpeg.
-* _[TwilioIoT](https://github.com/cskonopka/TwilioIoT)_: Twilio Programmable Wireless repository of blog posts, quickstarts and code snippets.
 * _[HawaiianEarthquakes](https://github.com/cskonopka/HawaiianEarthquakes)_: Tracking earthquakes in Hawaii using USGS geojson data.
 * _[ghostly](https://github.com/cskonopka/ghostly)_: Real-time Spectral Sampler [Stretch & Delay]
