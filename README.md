@@ -1,4 +1,4 @@
-Christopher Konopka is a multidisciplinary artist that focuses on the cross section of human-computer interaction, analog video synthesis and experiential development. They are passionate about finding new ways to connect computers with people with the goal of psychological research. Drawing from his varied skill set, their goal is to develop communication systems that provide insight into individual experiences of the human condition.
+Christopher Konopka is a multidisciplinary technologist specializing in IoT systems, complex systems design, and rapid prototyping. With expertise in human-computer interaction and cutting-edge technology integration, they create innovative communication systems that provide deep insights into user behavior and cognitive processes. Their work, often developed in 0-1 spaces, has been showcased to dignitaries and C-suite executives worldwide to demonstrate product viability and drive technological innovation.
 
 :gem:_| create things that don't exist |_:gem:
 
