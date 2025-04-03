@@ -10,7 +10,7 @@ Christopher Konopka is a multidisciplinary technologist specializing in IoT syst
 * _[videobeaux](https://github.com/vondas-network/videobeaux)_: Your friendly multilateral video toolkit built for artists by artists.
 * _[webglo](https://github.com/vondas-network/videobeaux)_: decentralized video art on the Bitcoin blockchain.
 * _[illogica-factory](https://github.com/vondas-network/illogica-factory)_; automated A.I. cannibalism.
-* _[cardquest.zone](https://cardquest.zone/)_: 
+* _[cardquest.zone](https://cardquest.zone/)_: Daily price updates for Pokemon chase cards via TCG.
 * _[viewfinder](https://github.com/vondas-network/viewfinder)_: One API for most EVM blockchain explorers & their clones.
 * _[MagicEdenJS](https://github.com/vondas-network/MagicEdenJS)_: An API service for sourcing Rare Sats and Bitcoin Ordinal listing data from Magic Eden.
 * _[bosl](https://github.com/vondas-network/bosl)_: A collection of Bitcoin Ordinal Software Libraries stored on-chain.
