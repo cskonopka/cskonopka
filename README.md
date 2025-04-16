@@ -11,7 +11,7 @@ Christopher Konopka is a multidisciplinary technologist specializing in IoT syst
 * _[cardquest.zone](https://cardquest.zone/)_: Daily price updates for Pokemon chase cards via TCG.
 * _[viewfinder](https://github.com/vondas-network/viewfinder)_: One API for most EVM blockchain explorers & their clones.
 * _[MagicEdenJS](https://github.com/vondas-network/MagicEdenJS)_: An API service for sourcing Rare Sats and Bitcoin Ordinal listing data from Magic Eden.
-* _[bosl](https://github.com/vondas-network/bosl)_: A collection of Bitcoin Ordinal Software Libraries stored on-chain.
+* _[ordvault](https://github.com/vondas-network/ordvault)_: A collection of on-chain software libraries hosted as Bitcoin Ordinals.
 * _[drop-zone-ops](https://github.com/vondas-network/drop-zone-ops)_: An automation project focused on streamlining the m3u creation process with the Open Broadcast Software API & WebSockets.
 * _[btc-axios](https://github.com/vondas-network/btc-axios)_: A website that executes a HTTP GET request Axios hosted on the Bitcoin blockchain using the Ordinal protocol.
 * _[dexscreenerJS](https://github.com/vondas-network/dexscreenerJS)_: An API for dexscreener.com pair data.
