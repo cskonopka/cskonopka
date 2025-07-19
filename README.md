@@ -1,5 +1,7 @@
 Christopher Konopka is a multidisciplinary technologist specializing in IoT systems, complex systems design, and rapid prototyping. With expertise in human-computer interaction and cutting-edge technology integration, they create innovative communication systems that provide deep insights into user behavior and cognitive processes. Their work, often developed in 0-1 spaces, has been showcased to dignitaries and C-suite executives worldwide to demonstrate product viability and drive technological innovation.
 
+| create things that don’t exist |
+
 :fax: Portfolios :fax:
 * _[conspectus](https://github.com/cskonopka/conspectus)_: Personal resume website for Christopher Konopka
 * _[lexemes](https://cskonopka.github.io/lexemes/)_: basic lexical units for real-time visual thought (history hand drawings)
