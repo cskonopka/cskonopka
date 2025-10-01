@@ -6,7 +6,7 @@ Christopher Konopka is a multidisciplinary technologist specializing in IoT syst
 * _[conspectus](https://github.com/cskonopka/conspectus)_: Personal resume website for Christopher Konopka
 * _[lexemes](https://cskonopka.github.io/lexemes/)_: basic lexical units for real-time visual thought (history hand drawings)
 
-:computer: [vondas.network](https://github.com/vondas-network) projects :computer:
+:computer: [schwwaaaa](https://github.com/schwwaaa) projects :computer:
 * _[videobeaux](https://github.com/vondas-network/videobeaux)_: Your friendly multilateral video toolkit built for artists by artists.
 * _[webglo](https://vondas-network.github.io/webglo/)_: decentralized video art on the Bitcoin blockchain.
 * _[illogica-factory](https://github.com/vondas-network/illogica-factory)_; automated A.I. cannibalism.
